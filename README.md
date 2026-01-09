@@ -77,10 +77,13 @@ IoT 기반 네트워크 통신을 활용하여 원격으로 제어 가능한 스
 ---
 ##  🎬 동작 영상 (Demo)
 본 프로젝트의 실제 동작 모습은 아래 영상을 통해 확인할 수 있습니다.
-(버튼으로 ON/OFF, 스마트폰으로 제어)
 
 
-https://github.com/user-attachments/assets/97890ce3-3bbe-4afa-a134-a8fdb99ed125 https://github.com/user-attachments/assets/19d2a473-c6f1-4032-9ad3-f6b58edc61b0
+버튼으로 ON/OFF
+https://github.com/user-attachments/assets/97890ce3-3bbe-4afa-a134-a8fdb99ed125
+
+스마트폰 앱으로 제어
+https://github.com/user-attachments/assets/19d2a473-c6f1-4032-9ad3-f6b58edc61b0
 
 
 
